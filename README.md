@@ -3,9 +3,7 @@
 BilgeAdam Akademi tarafından düzenlenen IOS Mobil Programlama Uzmanı Yetiştirme Programı final projesinde ekip arkadaşım Furkan KIZMAZ ile birlikte TravioApp uygulamasını oluşturduk.
 
 
-![Login](https://github.com/Mami0121/Travio/assets/89414647/c7a4420a-90c1-4fd9-8aa6-9cae1848ba04)
-
-![Register](https://github.com/Mami0121/Travio/assets/89414647/c3157992-1e17-4acf-99e2-d46c22247ba3)
+![Login](https://github.com/Mami0121/Travio/assets/89414647/c7a4420a-90c1-4fd9-8aa6-9cae1848ba04) - ![Register](https://github.com/Mami0121/Travio/assets/89414647/c3157992-1e17-4acf-99e2-d46c22247ba3)
 
 ![Home](https://github.com/Mami0121/Travio/assets/89414647/f1f1c1b5-b960-44e3-b69f-e31565e8613b)
 
