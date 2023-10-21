@@ -1,6 +1,6 @@
 # Travio
 
-BilgeAdam Akademi tarafından düzenlenen IOS Mobil Programlama Uzmanı Yetiştirme Programı final projesinde ekip arkadaşım Furkan KIZMAZ ile birlikte TravioApp uygulamasını oluşturduk.
+BilgeAdam Akademi tarafından düzenlenen IOS Mobil Programlama Uzmanı Yetiştirme Programı final projesinde ekip arkadaşım Furkan KIZMAZ ile birlikte TravioApp uygulamasını oluşturduk. Uygulamanın amacı gezdiğimiz şehirleri eklemek ve insanların beğenisine sunmak. Kullanıcıların yayınlamış olduğu yerleri de görerek kendimiz için yeni gezi planı oluşturabiliriz.
 
 
 ![Login](https://github.com/Mami0121/Travio/assets/89414647/c7a4420a-90c1-4fd9-8aa6-9cae1848ba04) 
